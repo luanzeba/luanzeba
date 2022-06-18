@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 ### Hi, I'm Luan 👋😄 
 
-💻 I'm a developer working at @github
+💻 I'm a Software Engineer at @github
 
-💎 I love working with Ruby on Rails and I'm interested in exploring other languages and frameworks
+🛤️ Member of the Ruby on Rails triage team
 
-👨‍🏫 I created a beginner Ruby on Rails course launching in June 2022 on @leveluptuts
+👨‍🏫 I created a beginner Ruby on Rails course launching in July 2022 on @leveluptuts
