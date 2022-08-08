@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 🛤️ Member of the Ruby on Rails triage team
 
-👨‍🏫 I created a beginner Ruby on Rails course launching in July 2022 on @leveluptuts
+👨‍🏫 I created a [beginner Ruby on Rails course](https://leveluptutorials.com/tutorials/beginner-ruby-on-rails/series-introduction)
